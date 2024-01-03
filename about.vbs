@@ -1,0 +1,1 @@
+x=msgbox("||OS: Windows 10||  ||APP Version: Windows Orange Booster BETA Ver 0.1||  ||Credits: https://www.youtube.com/channel/UCWAnLuaUIx1lWrmPgr-HWLA|| ||Autoriu teises (c) 2024 TheAdas 2|| ",64, "About")

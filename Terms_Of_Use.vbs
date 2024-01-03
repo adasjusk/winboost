@@ -1,0 +1,1 @@
+x=msgbox("Jaigu norite naudoti Windows 10 Booster jus sutinkate su taisyklemis Faile Perskaityk_Mane.txt",64, "Taisykliu Sutikimas")
